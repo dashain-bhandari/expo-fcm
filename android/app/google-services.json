@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95433533933",
+    "project_id": "fcm-notification-f5479",
+    "storage_bucket": "fcm-notification-f5479.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95433533933:android:3be575ff4174832bc55fe4",
+        "android_client_info": {
+          "package_name": "com.dashain.expofcmserver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnv_dQo61ZMGm99Vd7IPjDafOCc32DvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

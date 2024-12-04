@@ -15,7 +15,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.dashain.expofcmserver",
+      "googleServicesFile":"./google-services.json"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +38,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fbed13d0-9fcb-4625-a8e8-5b9483ec4f16"
+      }
     }
   }
 }
