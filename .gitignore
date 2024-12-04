@@ -8,7 +8,8 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
-
+google-services.json
+fcm-notification-f5479-firebase-adminsdk-c8qmk-a4a07264ba.json
 # Native
 *.orig.*
 *.jks
